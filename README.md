@@ -15,10 +15,9 @@ Moshix
 
 September 2021
 
-<br>
-<br>
-Sample Operating System Version 2.00<p>
-====================================
+
+Sample Operating System Version 2.00
+------------------------------------
 
 The book "Operating Systems" by Stuart E. Madnick and John J. Donovan
 (McGraw-Hill 1974) describes a sample operating system suitable to run on
@@ -57,8 +56,8 @@ new funtionality to the EXCP device handler. These enhancements were done
 changed to achieve the desired outcome.
 
 
-Packaging and Installation:
----------------------------
+Packaging and Installation
+--------------------------
 
 All of the above was published ad'hoc as it came to live during the November to
 December 2015 timeframe. This lead to a somewhat chaotic chain of updates to the
