@@ -1,4 +1,3 @@
-
 #SOS Operating System
 =====================
 
@@ -18,7 +17,7 @@ September 2021
 
 <br>
 <br>
-Sample Operating System Version 2.00
+Sample Operating System Version 2.00<p>
 ====================================
 
 The book "Operating Systems" by Stuart E. Madnick and John J. Donovan
