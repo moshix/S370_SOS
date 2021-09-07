@@ -18,14 +18,6 @@ September 2021
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
 Sample Operating System Version 2.00
 ====================================
 
@@ -97,9 +89,9 @@ package and don't install the 3270 Graphics Demo package into the same folder
 as any of the previous ones.
 
 
-Files in Folder "Sample Operating System":
-------------------------------------------
-
+Files in Folder "Sample Operating System"
+-----------------------------------------
+<pre>
 README.txt                      --  This file.
 
                                   / Consolidated package containing all single
@@ -116,11 +108,11 @@ Madnick_Sieve_Primes.zip          \  the resurrection and refurbishment of the
 Madnick_4_KB_RDR_for_Hercules.zip /  Sample Operating System. None of these
 Madnick_4_KB_for_Hercules.zip    /   packages is needed any more to install the
 Madnick_for_Hercules.zip        /    system in its current state.
+</pre>
 
-
-Credits:
---------
-
+Credits
+-------
+<pre>
 Stuart E. Madnick   \ authors of the book "Operating Systems"
 John J. Donovan     / (McGraw-Hill 1974)
 John DeTreville     \ authors of the Sample Operating System
@@ -131,8 +123,8 @@ Harold Grovesteen  \  various helpful comments in the hercules-390 Yahoo
 Laddie Hanus        > group, particularly for sorting out the state of affairs
 Martin Zettel      /  of the storage protection logic in Peter's upload
 James Francis Cray -- digged Peter's source out in October 2015
+o/pre>
+<br><br>
 
-
-----------
 2015/12/18, Juergen Winkelmann, ETH Zuerich
 e-mail: winkelmann@id.ethz.ch
