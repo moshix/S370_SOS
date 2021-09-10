@@ -1,4 +1,4 @@
-#SOS Operating System
+SOS Operating System
 =====================
 
 Mr. Juergen Winkelkmann had made this repository available on the original yahoo mailing list files section, several (many?) years ago. It's all his work. I contributed NOTHING to this. 
