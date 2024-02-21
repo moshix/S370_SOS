@@ -1,7 +1,7 @@
 SOS Operating System
 =====================
 
-Mr. Juergen Winkelkmann had made this repository available on the original yahoo mailing list files section, several (many?) years ago. It's all his work. I contributed NOTHING to this. 
+Mr. Juergen Winkelkmann had made this repository available on the original yahoo mailing list files section, several (many?) years ago. It's all his work. 
 
 However, over time it became difficult to reach this amazing software package because a) you needed to register with Yahoo Groups to access it, and b) Yahoo Groups was obsoleted by Yahoo, so...
 
@@ -9,11 +9,11 @@ I made it available under my MVS repository here on Github.
 
 However, I have come to see this as such important work, that I think it requires its own repo. 
 
-So here it is. 
+The most interesting part for edutainment purposes is, in my opinion, SOS_LISTING.pdf which is a beautifully rendered 1403 listing of the assembly of SOS. Have a look!
 
 Moshix
 
-September 2021
+February 2024
 
 
 Sample Operating System Version 2.00
