@@ -13,7 +13,7 @@ The most interesting part for edutainment purposes is, in my opinion, SOS_LISTIN
 
 Moshix
 
-February 2024
+Zurich, February 2024
 
 
 Sample Operating System Version 2.00
